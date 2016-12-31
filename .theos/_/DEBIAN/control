@@ -1,0 +1,10 @@
+Package: com.wx.zhz
+Name: wxRedEnvelop
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: zhz
+Author: zhz
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 164
